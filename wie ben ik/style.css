@@ -1,0 +1,275 @@
+/* algemeen */
+
+body {
+    background-image: url('Naamloos.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+a {
+    background-color: none;
+    color: white;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+}
+
+hr {
+    border-color: white;
+}
+
+footer {
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.Paginabut {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    width: 8%;
+    margin-bottom: 10px;
+}
+
+.copy {
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Home sector */
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 3vw;
+}
+
+.voorstel {
+    display: flex;
+    justify-content: center;
+}
+
+.intro {
+    border: 3px solid white;
+    padding: 20px;
+    font-size: 2vw;
+}
+
+.afbeelding1 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+
+.boys {
+    border-radius: 20px;
+    object-fit: contain;
+    border: 3px solid white;
+    width: 40%;
+}
+
+.tekst1 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: 2vw;
+}
+
+.afbeelding2 {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+
+.Selfie {
+    border-radius: 20px;
+    object-fit: contain;
+    border: 3px solid white;
+    width: 40%;
+}
+
+.tekst2 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: 2vw;
+}
+
+.afbeelding3 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+
+.DenHelder {
+    border-radius: 20px;
+    object-fit: contain;
+    border: 3px solid white;
+    width: 40%;
+}
+
+.tekst3 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: 2vw;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+}
+
+
+/* contact sector */
+
+
+.contactafb {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2vw;
+}
+
+textarea {
+    font-size: 2vw;
+    height: 200px;
+}
+
+.submitknop:hover {
+    background-color: black;
+    color: white;
+}
+
+input {
+    font-size: 2vw;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    font-size: 1vw;
+    margin: 20px;
+}
+
+
+/* Hobby's sector */
+
+
+.Gamen {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    font-size: 2vw;
+}
+
+.Hobby1 {
+    display: flex;
+    justify-content: center;
+}
+
+.PlayStation {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.Apex {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.Minecraft {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.Formule1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    font-size: 2vw;
+}
+
+.Hobby2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Viaplay {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.RedBull {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.F1 {
+    padding: 30px;
+    object-fit: contain;
+    width: 20%;
+}
+
+.foot {
+    margin-top: 50px;
+}
+
+/* credits */
+
+.Credits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.Foto {
+    color: lightskyblue;
+    text-decoration: underline;
+}

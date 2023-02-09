@@ -1,0 +1,73 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: darkblue;
+    height: 50px;
+    font-size: 15px;
+}
+
+h3{
+    color: white;
+}
+h2{
+    color: black;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: flex-start;
+    align-self: flex-start;
+}
+
+.kolom{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    
+    align-items: baseline;
+}
+
+.tabel1{
+    
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    background-color: white;
+    
+}
+
+.button{
+    background-color: lightgreen;
+    font-size: 15px;
+}
+
+td{
+    padding: 10px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.tabs{
+    padding: 7px;
+}
+
+th, td{
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+}
+
+.een{
+   
+    background-color: whitesmoke;
+    font-size: 30px;
+}
+
+.tekstje{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
