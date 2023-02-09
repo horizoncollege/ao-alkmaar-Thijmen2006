@@ -15,25 +15,28 @@
         <br>
     </div>
 
+    
     <div class="container">
         <div class="row">
+            <!-- Eerste knop naar project wie ben ik -->
             <div class="col">
                 <a href="wie ben ik/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/WieBenIk.png"></a>
                 <p>Wie ben ik?</p>
             </div>
-        
-        
+
+            <!-- Tweede knop naar project Politieke partij -->
             <div class="col">
-            <a href="PPT/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/logo_PPT.png"></a>
+                <a href="PPT/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/logo_PPT.png"></a>
                 <p>Mijn politieke partij</p>
             </div>
-       
+
+            <!-- Derde knop naar project galgje -->
             <div class="col">
-            <a href="Galgje" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/galgje.png"></a>
+                <a href="Galgje" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/galgje.png"></a>
                 <p>Galgje</p>
             </div>
             <div class="col">
-            <a href="SteenPapierSchaar/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/SteenPapierSchaar.jpg"></a>
+                <a href="SteenPapierSchaar/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/SteenPapierSchaar.jpg"></a>
                 <p>Steen, Papier, Schaar</p>
             </div>
         </div>
