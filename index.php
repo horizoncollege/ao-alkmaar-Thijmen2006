@@ -23,7 +23,7 @@
         <div class="row">
             <!-- Eerste knop naar project wie ben ik -->
             <div class="col">
-                <a href="wie ben ik/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/WieBenIk.png"></a>
+                <a href="Overmij/" target="_blank"><img class="img-thumbnail" width="200px;" height="50px;" src="afbeeldingen/WieBenIk.png"></a>
                 <p>Wie ben ik?</p>
             </div>
 
