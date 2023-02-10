@@ -10,6 +10,7 @@
 
 <body>
 
+
 <div class="intro">
     <div class="bg-primary text-center" style="border-radius: 30px; margin:20px">
         <h1 class="tekst">Application Dashboard</h1>
@@ -17,9 +18,11 @@
         <p class="tekst">Hallo, ik ben Thijmen Hekkema en dit is mijn dashboard. Hier kun je naar al mijn projecten gaan die ik heb gemaakt tijdens mijn opleiding.</p>
         <br>
     </div>
-</div>
+
+
 <br>
     
+
     <div class="container">
         <div class="row">
             <!-- Eerste knop naar project wie ben ik -->
@@ -45,14 +48,11 @@
             </div>
         </div>
     </div>
+</div>
 
-    <footer class="bg-primary">
-        <ul>
-            <p class="tekst">© copyright all rights reserved</p>
-        </ul>
+    <footer class="bg-primary text-center">
+            <p class="footertekst">© copyright all rights reserved</p>
     </footer>
-
-
 </body>
 
 </html>
