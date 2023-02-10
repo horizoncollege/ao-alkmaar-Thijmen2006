@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Document</title>
+    <title>Steen, Papier, Schaar</title>
 </head>
 
 <body>
