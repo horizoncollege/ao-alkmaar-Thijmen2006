@@ -2,35 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Rock, Paper, Scissors</title>
+    <title>Document</title>
 </head>
 
 <body>
-    <h1>Steen Papier Schaar</h1>
-    <div>
-        <form method="POST">
-            <label for="speler_een">Speler 1</label>
-            <select name="speler_een" id="speler_een">
-                <option value="steen">Steen</option>
-                <option value="papier">Papier</option>
-                <option value="schaar">Schaar</option>
-                <input type="submit" name="submit" value="Selecteer">
-            </select>
-        </form>
-    </div>
-    <div>
-        <form method="POST">
-            <label for="speler_twee">Speler 2</label>
-            <select name="speler_twee" id="speler_twee">
-                <option value="steen">Steen</option>
-                <option value="papier">Papier</option>
-                <option value="schaar">Schaar</option>
-                <input type="submit" name="submit" value="Selecteer">
-            </select>
-        </form>
-    </div>
-
+    <!-- Het begin scherm waar je kiest tegen wie je wilt strijden! -->
+    <h1>Welkom bij Steen, Papier, Schaar, Hagedis, Spock</h1>
+    <h3>Kies je gamemode</h3>
+    <a type="button" href="game.php">Speler vs Computer</a>
+    <br>
+    <a type="button" href="game2.php">Speler vs Speler</a>
 </body>
 
 </html>
